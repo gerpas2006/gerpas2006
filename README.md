@@ -1,18 +1,31 @@
-# ¡Hola! 👋 Soy Germán Pastor Molero
+# ¡Hola!  👋 Soy Germán Pastor Molero
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
-💻 Aprendiendo y practicando con **Java**, **HTML**, **CSS** y **Bases de Datos**  
+💻 Aprendiendo y practicando con **Java**, **Spring Boot**, **Angular**, **Flutter** y **Bases de Datos**  
 🌱 Me apasiona la tecnología y siempre estoy buscando nuevos retos para mejorar mis habilidades.
 
 ## 🚀 Sobre mí
 
-Actualmente estudio DAM y estoy dando mis primeros pasos en el mundo del desarrollo de software. Me gusta experimentar con distintos lenguajes y herramientas, y disfruto mucho resolviendo problemas y aprendiendo de cada proyecto.
+Actualmente estudio DAM y estoy dando mis primeros pasos en el mundo del desarrollo de software.  Me gusta experimentar con distintos lenguajes y herramientas, y disfruto mucho resolviendo problemas y creando soluciones innovadoras.
 
 ## 🛠️ Tecnologías que manejo
 
-- **Java**  
-- **HTML & CSS**  
-- **SQL / Bases de datos**
+### Lenguajes de Programación
+- **Java** (principal)
+- **JavaScript / TypeScript**
+- **Python**
+- **SQL**
+- **HTML5 & CSS3**
+
+### Frameworks y Tecnologías
+- **Spring Boot** - Backend
+- **Angular** - Frontend
+- **Flutter** - Desarrollo de aplicaciones móviles multiplataforma
+- **PostgreSQL** - Sistema de gestión de bases de datos relacionales
+
+### Herramientas y Metodología
+- **Figma** - Prototipado de aplicaciones
+- **Metodologías Ágiles** - Trabajo en equipo
 
 ## 🌟 Proyecto destacado
 
