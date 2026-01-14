@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Gerpas2006
+# ¡Hola! 👋 Soy Germán Pastor Molero
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)  
 💻 Aprendiendo y practicando con **Java**, **HTML**, **CSS** y **Bases de Datos**  
