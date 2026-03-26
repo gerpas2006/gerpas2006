@@ -1,86 +1,86 @@
-# 👨‍💻 Germán Pastor Molero
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header&text=Fullstack%20Developer%20In%20The%20Making&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=GERMÁN%20PASTOR&fontSize=70&animation=fadeIn&fontColor=00f2ff" />
 </p>
 
-## 💡 Sobre mí
-> **"Transformando líneas de código en soluciones reales."** > Soy estudiante de **DAM (Desarrollo de Aplicaciones Multiplataforma)** con un enfoque obsesivo en la eficiencia y la arquitectura limpia. Me especializo en el ecosistema **Java/Spring Boot** para el robusto mundo del backend y **Flutter/Angular** para crear interfaces que enamoran al usuario.
+<p align="center">
+  <img src="https://img.shields.io/badge/DEVELOPER-DAM_STUDENT-00f2ff?style=for-the-badge&logo=codepen&logoColor=000000" />
+  <img src="https://img.shields.io/badge/LOCATION-SPAIN-ffffff?style=for-the-badge&logo=openstreetmap&logoColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-CODING_DAILY-00ff41?style=for-the-badge&logo=github&logoColor=000000" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## ⚡ System Overview
+> `Software Developer` especializado en la construcción de ecosistemas digitales. Mi enfoque se centra en la **escalabilidad del backend** y el **rendimiento nativo en dispositivos móviles**. Dominio de arquitecturas distribuidas y gestión de datos híbrida (SQL/NoSQL).
 
-<table align="center">
+---
+
+## 🛠️ Integrated Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py,dart,angular,flutter,postgresql,mongodb,mysql,git,figma,postman&theme=dark" />
+</p>
+
+<table align="center" style="border: none; background: transparent;">
   <tr>
-    <td align="center" width="24%">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express&theme=dark" width="180px" /><br />
-      <sub><b>Backend & Logic</b></sub>
-    </td>
-    <td align="center" width="24%">
-      <img src="https://skillicons.dev/icons?i=ts,js,py,dart&theme=dark" width="180px" /><br />
-      <sub><b>Languages</b></sub>
-    </td>
-    <td align="center" width="24%">
-      <img src="https://skillicons.dev/icons?i=angular,flutter,figma,postman&theme=dark" width="180px" /><br />
-      <sub><b>Frontend & Design</b></sub>
-    </td>
-    <td align="center" width="24%">
-      <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,git&theme=dark" width="180px" /><br />
-      <sub><b>Data & Tools</b></sub>
+    <td align="left">
+      <strong>Core Engines:</strong> <code>Spring Boot</code>, <code>Express.js</code>, <code>Flutter</code><br>
+      <strong>Data Ops:</strong> <code>PostgreSQL</code>, <code>MongoDB</code>, <code>JWT Auth</code><br>
+      <strong>Scripting:</strong> <code>Python</code>, <code>TypeScript</code>, <code>Java</code>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🏗️ Proyectos Destacados
+## 📂 Featured Repositories
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h4>🔹 <a href="https://github.com/gerpas2006/gestionCaseta">gestionCaseta</a></h4>
+      <p><em>Enterprise Backend</em><br>Arquitectura Java + Spring Security (JWT). El motor que gestiona toda la lógica de negocio con alta disponibilidad.</p>
+    </td>
+    <td width="50%">
+      <h4>🔹 <a href="https://github.com/gerpas2006/gestionCasetaFront">gestionCasetaFront</a></h4>
+      <p><em>Mobile Client</em><br>Despliegue multiplataforma con Flutter. UI reactiva y optimización de consumo de recursos.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌑 Activity Monitor
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerpas2006&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f2ff" width="100%" />
+</p>
 
 <div align="center">
-
-| 📱 Proyecto | 🚀 Tecnologías | 🛠️ Descripción |
-| :--- | :--- | :--- |
-| **[gestionCaseta](https://github.com/gerpas2006/gestionCaseta)** | `Java` `Spring Boot` `JWT` | **Core Engine:** Backend de alto rendimiento con seguridad basada en tokens para gestión integral. |
-| **[gestionCasetaFront](https://github.com/gerpas2006/gestionCasetaFront)** | `Flutter` `Dart` `REST API` | **Mobile Experience:** Interfaz multiplataforma fluida conectada en tiempo real al servidor. |
-| **[PrimerContacto](https://github.com/gerpas2006/PrimerContacto)** | `JS` `HTML` `CSS` `SQL` | **The Origin:** Mi primer proyecto integral demostrando la base del desarrollo web. |
-
+  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=transparent&title_color=00f2ff&text_color=ffffff&icon_color=00f2ff&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=transparent&title_color=00f2ff&text_color=ffffff&hide_border=true" width="45%" />
 </div>
 
 ---
 
-## 📈 Actividad en Tiempo Real
-
-### ⚡ Gráfico de Energía (Contribuciones)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerpas2006&theme=tokyonight&hide_border=true&area=true&bg_color=0d1117" width="100%" />
-</p>
-
-### 📜 Log de Consola (Últimos Commits)
+## 🚀 Recent Logs
 <p align="left">
-  <img src="https://github-readme-recent-activity.vercel.app/api?username=gerpas2006&limit=5&theme=tokyonight&icons=true" />
+  <img src="https://github-readme-recent-activity.vercel.app/api?username=gerpas2006&limit=5&theme=react-dark&icons=true" />
 </p>
 
 ---
 
-## 📊 Estadísticas Globales
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
-
----
-
-## 📩 Contacto Directo
-
+## 🔗 Connection Points
 <p align="center">
   <a href="mailto:german.pastor2006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/GMAIL-CONTACT-00f2ff?style=line-through&logo=gmail&logoColor=00f2ff" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/gerpas2006">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GITHUB-PROFILE-ffffff?style=line-through&logo=github&logoColor=ffffff" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00f2ff&height=2&section=footer" />
 </p>
