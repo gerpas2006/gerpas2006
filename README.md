@@ -23,29 +23,29 @@
 
 ---
 
-## 🏗️ Proyectos Destacados
+## 🏗️ Proyectos Destacados — Ecosistema Catering
 
 <table align="center" border="0">
   <tr>
-    <td align="center" width="400">
-      <br><strong>La Tienda by gestionCaseta</strong><br>
+    <td align="center" width="400" style="vertical-align: top;">
+      <br><strong>Gestión de Caseta (Backend)</strong><br>
       <a href="https://github.com/gerpas2006/gestionCaseta">
         <img src="https://img.shields.io/badge/VER%20PROYECTO-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
       </a>
       <br><br>
-      <p>Backend robusto desarrollado con Java y Spring Boot para gestión empresarial.</p>
+      <p>API robusta que centraliza la lógica del catering: gestión de <b>comandas en tiempo real</b>, control de <b>inventario de productos</b> y cierre de <b>cuentas</b>.</p>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
       <br><br>
     </td>
-    <td align="center" width="400">
-      <br><strong>Rise2Top by gestionCasetaFront</strong><br>
+    <td align="center" width="400" style="vertical-align: top;">
+      <br><strong>Gestión de Caseta (Mobile)</strong><br>
       <a href="https://github.com/gerpas2006/gestionCasetaFront">
         <img src="https://img.shields.io/badge/VER%20PROYECTO-007cc2?style=for-the-badge&logo=flutter&logoColor=white" />
       </a>
       <br><br>
-      <p>App móvil multiplataforma moderna con Flutter y Material Design.</p>
+      <p>Interfaz móvil para personal de servicio. Permite visualizar la <b>carta digital</b>, tomar pedidos de forma ágil y consultar el estado de las mesas.</p>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
       <img src="https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=material-design&logoColor=white" />
