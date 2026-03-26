@@ -91,7 +91,7 @@
         <sub>Código limpio, mantenible y optimizado para el rendimiento.</sub>
       </td>
       <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="[[[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png](https://www.flaticon.es/icono-gratis/educacion_5780466)](https://www.flaticon.es/icono-gratis/educacion_5780466)](https://www.flaticon.es/icono-gratis/libro-en-linea_10558895)" width="50" /><br><br>
+        <img src="[[[[https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png](https://www.flaticon.es/icono-gratis/educacion_5780466)](https://www.flaticon.es/icono-gratis/educacion_5780466)](https://www.flaticon.es/icono-gratis/libro-en-linea_10558895)](https://www.flaticon.es/icono-gratis/aprender_2015579)" width="50" /><br><br>
         <strong>APRENDER</strong><br>
         <sub>Evolución constante para dominar las últimas tecnologías.</sub>
       </td>
