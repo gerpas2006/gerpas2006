@@ -67,48 +67,48 @@
 
 ## 📊 Estadísticas de Impacto (Tiempo Real)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&title_color=00f2ff&icon_color=00f2ff&hide_border=true&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&title_color=00f2ff&hide_border=true&bg_color=0d1117" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&stroke=00f2ff&background=0d1117&hide_border=true" width="94%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&title_color=00f2ff&icon_color=00f2ff&hide_border=true&bg_color=0d1117" width="400" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&title_color=00f2ff&hide_border=true&bg_color=0d1117" width="300" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&stroke=00f2ff&background=0d1117&hide_border=true" width="715" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🧩 Mi Filosofía de Desarrollo
 
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
-      <td align="center" width="250">
+      <td align="center" width="230">
         <br>
-        <h1 align="center">💡</h1>
-        <strong>PENSAR</strong><br>
-        <sub>Diseño arquitecturas sólidas para problemas reales.</sub>
-        <br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" />
+        <br><strong>PENSAR</strong><br>
+        <sub>Arquitecturas sólidas.</sub><br><br>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="230">
         <br>
-        <h1 align="center">🛠️</h1>
-        <strong>CONSTRUIR</strong><br>
-        <sub>Código limpio, mantenible y optimizado.</sub>
-        <br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50" />
+        <br><strong>CONSTRUIR</strong><br>
+        <sub>Código limpio.</sub><br><br>
       </td>
-      <td align="center" width="250">
+      <td align="center" width="230">
         <br>
-        <h1 align="center">📚</h1>
-        <strong>APRENDER</strong><br>
-        <sub>Evolución constante en nuevas tecnologías.</sub>
-        <br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="50" />
+        <br><strong>APRENDER</strong><br>
+        <sub>Evolución constante.</sub><br><br>
       </td>
     </tr>
   </table>
 </div>
-
----
 
 ## 🌑 Actividad
 
