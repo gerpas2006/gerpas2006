@@ -17,21 +17,24 @@
 
 ## 🏆 Proyectos Destacados
 
-<div align="center">
-  <a href="https://github.com/gerpas2006/gestionCaseta">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCaseta&theme=radical" alt="gestionCaseta repo card" />
-  </a>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=476fcb&height=100&width=320&text=La%20Tienda%20%2F%20gestionCaseta&fontSize=20&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=Backend%20Java%20%2F%20Spring" alt="gestionCaseta banner"/>
-</div>
-<br>
-<div align="center">
-  <a href="https://github.com/gerpas2006/gestionCasetaFront">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCasetaFront&theme=radical" alt="gestionCasetaFront repo card" />
-  </a>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=16c6c2&height=100&width=320&text=Rise2Top%20%2F%20gestionCasetaFront&fontSize=20&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=App%20Flutter%20Multiplataforma" alt="gestionCasetaFront banner"/>
-</div>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/gerpas2006/gestionCaseta">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCaseta&theme=radical&hide_border=true" alt="gestionCaseta repo card" width="340"/>
+        <br>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=476fcb&height=90&width=270&text=gestionCaseta&fontSize=23&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=Backend%20con%20Java%20y%20Spring" alt="gestionCaseta banner" width="270"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/gerpas2006/gestionCasetaFront">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCasetaFront&theme=radical&hide_border=true" alt="gestionCasetaFront repo card" width="340"/>
+        <br>
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=16c6c2&height=90&width=270&text=gestionCasetaFront&fontSize=23&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=App%20Flutter%20Multiplataforma" alt="gestionCasetaFront banner" width="270"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
