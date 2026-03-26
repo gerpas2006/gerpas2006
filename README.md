@@ -8,18 +8,21 @@
 ---
 
 ## 🚀 Sobre mí
-> Estudiante de **DAM**. Especializado en **Backend (Java/Spring)** y **Mobile (Flutter)**. Enfocado en crear soluciones escalables y eficientes.
+
+> 👨‍💻 Estudiante de **DAM** apasionado de la tecnología.  
+> ⚙️ Especializado en **Backend (Java/Spring)** y **Mobile (Flutter)**.  
+> 🧠 Siempre buscando crear soluciones eficientes, escalables y con buen diseño.
 
 ---
 
-## 🏗️ Proyectos Destacados
+## 🏆 Proyectos Destacados
 
 <div align="center">
   <a href="https://github.com/gerpas2006/gestionCaseta">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCaseta&theme=radical" alt="gestionCaseta repo card" />
   </a>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=476fcb&height=120&width=320&text=La%20Tienda%20%2F%20gestionCaseta&fontSize=23&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=Backend%20Java%20%2F%20Spring" alt="gestionCaseta banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=476fcb&height=100&width=320&text=La%20Tienda%20%2F%20gestionCaseta&fontSize=20&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=Backend%20Java%20%2F%20Spring" alt="gestionCaseta banner"/>
 </div>
 <br>
 <div align="center">
@@ -27,7 +30,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCasetaFront&theme=radical" alt="gestionCasetaFront repo card" />
   </a>
   <br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=16c6c2&height=120&width=320&text=Rise2Top%20%2F%20gestionCasetaFront&fontSize=23&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=App%20Flutter%20Multiplataforma" alt="gestionCasetaFront banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=16c6c2&height=100&width=320&text=Rise2Top%20%2F%20gestionCasetaFront&fontSize=20&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=App%20Flutter%20Multiplataforma" alt="gestionCasetaFront banner"/>
 </div>
 
 ---
@@ -35,7 +38,6 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <strong>Lenguajes y Frameworks</strong><br><br>
   <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py,dart,flutter,postgres,mongodb,mysql,git,figma,postman&theme=dark" />
 </p>
 
@@ -43,41 +45,36 @@
 
 ## 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="99%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="130"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="95%" />
 </p>
 
 ---
 
-## 🧩 Mi Filosofía de Desarrollo
+## 🧩 Filosofía de Desarrollo
 
 <table width="100%">
   <tr>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" /><br>
       <strong>Pensar</strong><br>
-      <sub>Analizo cada proyecto para soluciones escalables.</sub>
+      <sub>Busco soluciones escalables y robustas.</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40" /><br>
       <strong>Crear</strong><br>
-      <sub>Código limpio siguiendo mejores prácticas.</sub>
+      <sub>Código limpio y buenas prácticas.</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" /><br>
       <strong>Evolucionar</strong><br>
-      <sub>Aprendizaje continuo de nuevas tecnologías.</sub>
+      <sub>Aprendizaje constante y adaptación.</sub>
     </td>
   </tr>
 </table>
