@@ -8,15 +8,16 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gerpas2006/gerpas2006/output/github-contribution-grid-snake.svg" alt="Animación de contribuciones tipo snake"/>
+  <img src="https://raw.githubusercontent.com/gerpas2006/gerpas2006/output/github-contribution-grid-snake.svg" alt="Contribuciones animadas snake" width="95%" />
 </p>
 
 ---
 
 ## Sobre mí
 
-> 🙋‍♂️ Soy estudiante de **DAM**; entusiasta de la tecnología, minimalista del código y en constante formación.
-> Me especializo en **Backend (Java/Spring)** y **Mobile (Flutter)**. Mi meta es crear proyectos sólidos, usables y que aporten valor real.
+> 🙋‍♂️ Estudiante de **DAM** apasionado por la tecnología.  
+> ⚙️ Backend (Java/Spring) | Mobile (Flutter).  
+> 🚀 Busco crear soluciones prácticas, robustas y con impacto.
 
 ---
 
@@ -24,23 +25,27 @@
 
 <table>
   <tr>
-    <td align="center" width="50%" style="vertical-align:top;">
-      <a href="https://github.com/gerpas2006/gestionCaseta"><b>gestionCaseta</b></a>
+    <td align="center" width="50%" style="vertical-align:top; border:1px solid #444; padding:10px;">
+      <a href="https://github.com/gerpas2006/gestioncaseta"><strong>gestioncaseta</strong></a>
       <br>
-      <img src="https://img.shields.io/badge/Backend-Java%2FSpring-009688?style=flat-square&logo=java&logoColor=white" />
-      <p style="margin:0">Aplicación web para gestión empresarial.<br><sub>Java · Spring Boot · PostgreSQL</sub></p>
-      <a href="https://github.com/gerpas2006/gestionCaseta">
-        <img src="https://img.shields.io/github/stars/gerpas2006/gestionCaseta?style=social" alt="Stars gestiónCaseta" />
-      </a>
+      <img src="https://img.shields.io/badge/Backend-6c757d?style=flat-square" />
+      <img src="https://img.shields.io/badge/Java/Spring-43a047?style=flat-square" />
+      <p style="margin: 1em 0 0.5em 0"><strong>Aplicación web para gestión empresarial.</strong></p>
+      <sub>Java · Spring Boot · PostgreSQL</sub>
+      <br>
+      <img src="https://img.shields.io/github/last-commit/gerpas2006/gestioncaseta?label=%C3%9Altimo%20commit&style=flat-square" />
+      <img src="https://img.shields.io/github/issues/gerpas2006/gestioncaseta?style=flat-square&label=Issues" />
     </td>
-    <td align="center" width="50%" style="vertical-align:top;">
-      <a href="https://github.com/gerpas2006/gestionCasetaFront"><b>gestionCasetaFront</b></a>
+    <td align="center" width="50%" style="vertical-align:top; border:1px solid #444; padding:10px;">
+      <a href="https://github.com/gerpas2006/gestioncasetafront"><strong>gestioncasetafront</strong></a>
       <br>
-      <img src="https://img.shields.io/badge/Frontend-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <p style="margin:0">Cliente móvil multiplataforma.<br><sub>Flutter · Dart · Material Design</sub></p>
-      <a href="https://github.com/gerpas2006/gestionCasetaFront">
-        <img src="https://img.shields.io/github/stars/gerpas2006/gestionCasetaFront?style=social" alt="Stars gestionCasetaFront" />
-      </a>
+      <img src="https://img.shields.io/badge/Frontend-424242?style=flat-square" />
+      <img src="https://img.shields.io/badge/Flutter-1565c0?style=flat-square" />
+      <p style="margin: 1em 0 0.5em 0"><strong>Cliente móvil multiplataforma.</strong></p>
+      <sub>Flutter · Dart · Material Design</sub>
+      <br>
+      <img src="https://img.shields.io/github/last-commit/gerpas2006/gestioncasetafront?label=%C3%9Altimo%20commit&style=flat-square" />
+      <img src="https://img.shields.io/github/issues/gerpas2006/gestioncasetafront?style=flat-square&label=Issues" />
     </td>
   </tr>
 </table>
@@ -55,39 +60,41 @@
 
 ---
 
-## Mis estadísticas en GitHub
+## Estadísticas rápidas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170"/>
+  <img src="https://img.shields.io/github/followers/gerpas2006?label=Seguidores&style=social" />
+  <img src="https://img.shields.io/github/repos/gerpas2006?label=Repos%20públicos&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=gerpas2006&label=Visitas&style=flat-square&color=9146ff" />
 </p>
 
 ---
 
-## Como veo el desarrollo
+## Filosofía de desarrollo
 
 <table width="100%">
   <tr>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" /><br>
       <strong>Pensar</strong><br>
-      <sub>Busco ideas escalables y que ayuden al equipo.</sub>
+      <sub>Ideas útiles y prácticas para el equipo.</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40" /><br>
       <strong>Construir</strong><br>
-      <sub>Código limpio y robusto, siempre.</sub>
+      <sub>Enfoque en código limpio y mantenible.</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" /><br>
       <strong>Aprender</strong><br>
-      <sub>Actualizarme y evolucionar es clave.</sub>
+      <sub>No dejo de mejorar y explorar.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Actividad anual
+## Actividad
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00f2ff/gerpas2006" width="85%" />
@@ -98,7 +105,6 @@
 ## Contacto
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gerpas2006&label=VISITAS&style=plastic&color=9146ff" />
   <a href="https://github.com/gerpas2006">
     <img src="https://img.shields.io/badge/GITHUB-GERPAS2006-007cc2?style=plastic&logo=github&logoColor=white" />
   </a>
