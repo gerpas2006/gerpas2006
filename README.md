@@ -7,6 +7,14 @@
 
 ---
 
+## 🐍 Historial de commits animado
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gerpas2006/gerpas2006/output/github-contribution-grid-snake.svg" alt="snake anim" />
+</p>
+
+---
+
 ## 🚀 Sobre mí
 
 > 👨‍💻 Estudiante de **DAM** apasionado de la tecnología.  
@@ -19,18 +27,22 @@
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="vertical-align:top;">
+      <a href="https://github.com/gerpas2006/gestionCaseta"><b>gestionCaseta</b></a>
+      <br>
+      <img src="https://img.shields.io/badge/Backend-Java%2FSpring-009688?style=flat-square&logo=java&logoColor=white" />
+      <p>API robusta para gestión empresarial.<br/><sub><i>Java · Spring Boot · PostgreSQL</i></sub></p>
       <a href="https://github.com/gerpas2006/gestionCaseta">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCaseta&theme=radical&hide_border=true" alt="gestionCaseta repo card" width="340"/>
-        <br>
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=476fcb&height=90&width=270&text=gestionCaseta&fontSize=23&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=Backend%20con%20Java%20y%20Spring" alt="gestionCaseta banner" width="270"/>
+        <img src="https://img.shields.io/github/stars/gerpas2006/gestionCaseta?style=social" alt="Stars gestiónCaseta" />
       </a>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="vertical-align:top;">
+      <a href="https://github.com/gerpas2006/gestionCasetaFront"><b>gestionCasetaFront</b></a>
+      <br>
+      <img src="https://img.shields.io/badge/Frontend-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <p>App móvil multiplataforma para tu negocio.<br/><sub><i>Flutter · Dart · Material Design</i></sub></p>
       <a href="https://github.com/gerpas2006/gestionCasetaFront">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=gerpas2006&repo=gestionCasetaFront&theme=radical&hide_border=true" alt="gestionCasetaFront repo card" width="340"/>
-        <br>
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=16c6c2&height=90&width=270&text=gestionCasetaFront&fontSize=23&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=App%20Flutter%20Multiplataforma" alt="gestionCasetaFront banner" width="270"/>
+        <img src="https://img.shields.io/github/stars/gerpas2006/gestionCasetaFront?style=social" alt="Stars gestionCasetaFront" />
       </a>
     </td>
   </tr>
@@ -52,10 +64,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="130"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="95%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="130"/>
 </p>
 
 ---
@@ -84,19 +96,16 @@
 
 ---
 
-## 🐍 Historial Dinámico de Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gerpas2006/gerpas2006/output/github-contribution-grid-snake.svg" alt="snake anim" />
-</p>
-
----
-
-## 🌐 Actividad y Contacto
+## 🌐 Actividad
 
 <p align="center">
   <img src="https://ghchart.rshah.org/00f2ff/gerpas2006" width="90%" />
 </p>
+
+---
+
+## 📬 Contacto
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gerpas2006&label=VISITAS&style=plastic&color=9146ff" />
   <a href="https://github.com/gerpas2006">
