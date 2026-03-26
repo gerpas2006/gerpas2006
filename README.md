@@ -8,28 +8,27 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gerpas2006/gerpas2006/output/github-contribution-grid-snake.svg" alt="Contribuciones animadas snake" width="95%" />
+  <img src="https://raw.githubusercontent.com/gerpas2006/gerpas2006/output/github-contribution-grid-snake.svg" alt="Snake animation" width="95%" />
 </p>
 
 ---
 
-## Sobre mí
+## 🚀 Sobre mí
 
-> 🙋‍♂️ Estudiante de **DAM** apasionado por la tecnología.  
-> ⚙️ Backend (Java/Spring) | Mobile (Flutter).  
-> 🚀 Busco crear soluciones prácticas, robustas y con impacto.
-
----
+> 👨‍💻 Estudiante de **DAM** con mentalidad de arquitecto de software. No solo escribo código, diseño **soluciones escalables y eficientes** que resuelven problemas reales.
+> 
+> 🛠️ Mi ecosistema principal es el **Backend (Java/Spring Boot)**, donde gestiono la seguridad y los datos con precisión, pero mi curiosidad me lleva a crear interfaces fluidas en **Mobile (Flutter)**.
+> 
+> ✨ Creo firmemente en el **código limpio** y en que la mejor tecnología es la que se construye para durar. ¡Siempre en busca del próximo desafío!
 
 ---
 
 ## 🏗️ Proyectos Destacados
 
-<table align="center">
+<table align="center" border="0">
   <tr>
     <td align="center" width="400">
-      <br>
-      <strong>La Tienda by gestionCaseta</strong><br>
+      <br><strong>La Tienda by gestionCaseta</strong><br>
       <a href="https://github.com/gerpas2006/gestionCaseta">
         <img src="https://img.shields.io/badge/VER%20PROYECTO-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
       </a>
@@ -41,8 +40,7 @@
       <br><br>
     </td>
     <td align="center" width="400">
-      <br>
-      <strong>Rise2Top by gestionCasetaFront</strong><br>
+      <br><strong>Rise2Top by gestionCasetaFront</strong><br>
       <a href="https://github.com/gerpas2006/gestionCasetaFront">
         <img src="https://img.shields.io/badge/VER%20PROYECTO-007cc2?style=for-the-badge&logo=flutter&logoColor=white" />
       </a>
@@ -57,59 +55,64 @@
 </table>
 
 ---
-## Stack y herramientas favoritas
+
+## 🛠️ Stack y herramientas favoritas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py,dart,flutter,postgres,mongodb,mysql,git,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py,dart&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=flutter,postgres,mongodb,mysql,git,figma,postman&theme=dark" />
 </p>
 
 ---
 
-## Estadísticas rápidas
+## 📊 Estadísticas de Impacto
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/gerpas2006?label=Seguidores&style=social" />
-  <img src="https://img.shields.io/github/repos/gerpas2006?label=Repos%20públicos&style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=gerpas2006&label=Visitas&style=flat-square&color=9146ff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="94%" />
 </p>
 
 ---
 
-## Filosofía de desarrollo
+## 🧩 Filosofía de Desarrollo
 
 <table width="100%">
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="45" /><br>
       <strong>Pensar</strong><br>
-      <sub>Ideas útiles y prácticas para el equipo.</sub>
+      <sub>Arquitecturas sólidas para problemas reales.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="45" /><br>
       <strong>Construir</strong><br>
-      <sub>Enfoque en código limpio y mantenible.</sub>
+      <sub>Código limpio, mantenible y escalable.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" /><br>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/white/Emojis/Objects/Rocket.png" width="45" /><br>
       <strong>Aprender</strong><br>
-      <sub>No dejo de mejorar y explorar.</sub>
+      <sub>En constante evolución tecnológica.</sub>
     </td>
   </tr>
 </table>
 
 ---
 
-## Actividad
+## 🌑 Actividad
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00f2ff/gerpas2006" width="85%" />
+  <img src="https://ghchart.rshah.org/00f2ff/gerpas2006" width="95%" />
 </p>
 
 ---
 
-## Contacto
+## 📫 Conecta conmigo
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gerpas2006&label=VISITAS&style=plastic&color=9146ff" />
   <a href="https://github.com/gerpas2006">
     <img src="https://img.shields.io/badge/GITHUB-GERPAS2006-007cc2?style=plastic&logo=github&logoColor=white" />
   </a>
