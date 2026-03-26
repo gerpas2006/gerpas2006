@@ -77,27 +77,33 @@
 
 ---
 
-## 🧩 Filosofía de Desarrollo
+---
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="45" /><br>
-      <strong>Pensar</strong><br>
-      <sub>Arquitecturas sólidas para problemas reales.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="45" /><br>
-      <strong>Construir</strong><br>
-      <sub>Código limpio, mantenible y escalable.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/white/Emojis/Objects/Rocket.png" width="45" /><br>
-      <strong>Aprender</strong><br>
-      <sub>En constante evolución tecnológica.</sub>
-    </td>
-  </tr>
-</table>
+## 🧩 Mi Filosofía de Desarrollo
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" /><br><br>
+        <strong>PENSAR</strong><br>
+        <sub>Diseño arquitecturas sólidas para resolver problemas reales.</sub>
+      </td>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50" /><br><br>
+        <strong>CONSTRUIR</strong><br>
+        <sub>Código limpio, mantenible y optimizado para el rendimiento.</sub>
+      </td>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="50" /><br><br>
+        <strong>APRENDER</strong><br>
+        <sub>Evolución constante para dominar las últimas tecnologías.</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
 
 ---
 
