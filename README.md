@@ -21,37 +21,42 @@
 
 ---
 
-## Proyectos destacados
+---
 
-<table>
+## 🏗️ Proyectos Destacados
+
+<table align="center">
   <tr>
-    <td align="center" width="50%" style="vertical-align:top; border:1px solid #444; padding:10px;">
-      <a href="https://github.com/gerpas2006/gestioncaseta"><strong>gestioncaseta</strong></a>
+    <td align="center" width="400">
       <br>
-      <img src="https://img.shields.io/badge/Backend-6c757d?style=flat-square" />
-      <img src="https://img.shields.io/badge/Java/Spring-43a047?style=flat-square" />
-      <p style="margin: 1em 0 0.5em 0"><strong>Aplicación web para gestión empresarial.</strong></p>
-      <sub>Java · Spring Boot · PostgreSQL</sub>
-      <br>
-      <img src="https://img.shields.io/github/last-commit/gerpas2006/gestioncaseta?label=%C3%9Altimo%20commit&style=flat-square" />
-      <img src="https://img.shields.io/github/issues/gerpas2006/gestioncaseta?style=flat-square&label=Issues" />
+      <strong>La Tienda by gestionCaseta</strong><br>
+      <a href="https://github.com/gerpas2006/gestionCaseta">
+        <img src="https://img.shields.io/badge/VER%20PROYECTO-8a2be2?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br><br>
+      <p>Backend robusto desarrollado con Java y Spring Boot para gestión empresarial.</p>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <br><br>
     </td>
-    <td align="center" width="50%" style="vertical-align:top; border:1px solid #444; padding:10px;">
-      <a href="https://github.com/gerpas2006/gestioncasetafront"><strong>gestioncasetafront</strong></a>
+    <td align="center" width="400">
       <br>
-      <img src="https://img.shields.io/badge/Frontend-424242?style=flat-square" />
-      <img src="https://img.shields.io/badge/Flutter-1565c0?style=flat-square" />
-      <p style="margin: 1em 0 0.5em 0"><strong>Cliente móvil multiplataforma.</strong></p>
-      <sub>Flutter · Dart · Material Design</sub>
-      <br>
-      <img src="https://img.shields.io/github/last-commit/gerpas2006/gestioncasetafront?label=%C3%9Altimo%20commit&style=flat-square" />
-      <img src="https://img.shields.io/github/issues/gerpas2006/gestioncasetafront?style=flat-square&label=Issues" />
+      <strong>Rise2Top by gestionCasetaFront</strong><br>
+      <a href="https://github.com/gerpas2006/gestionCasetaFront">
+        <img src="https://img.shields.io/badge/VER%20PROYECTO-007cc2?style=for-the-badge&logo=flutter&logoColor=white" />
+      </a>
+      <br><br>
+      <p>App móvil multiplataforma moderna con Flutter y Material Design.</p>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+      <img src="https://img.shields.io/badge/Material_Design-757575?style=flat-square&logo=material-design&logoColor=white" />
+      <br><br>
     </td>
   </tr>
 </table>
 
 ---
-
 ## Stack y herramientas favoritas
 
 <p align="center">
