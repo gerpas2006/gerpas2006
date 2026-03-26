@@ -1,137 +1,80 @@
-<style>
-  div.card {
-    border: 1px solid #30363d;
-    border-radius: 6px;
-    background-color: #161b22;
-    padding: 16px;
-    margin-bottom: 16px;
-  }
-  h2.card-title {
-    font-size: 20px;
-    margin-top: 0;
-  }
-</style>
-
 # ¡Hola! Soy Germán Pastor Molero 👋
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Status-🎓_Student_at_DAM-4ae3b5?style=flat-square" alt="Status" />
-  <img src="https://img.shields.io/badge/Role-Backend_%26_Mobile_Focused-blue?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Status-🎓_Estudiante_de_DAM-4ae3b5?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Mobile-blue?style=flat-square" alt="Focus" />
 </p>
 
-## 🚀 Futuro Desarrollador Multiplataforma (DAM)
+## 🚀 Desarrollador Multiplataforma en formación
 
-Soy un estudiante apasionado por crear soluciones eficientes y escalables. Me enfoco en construir **backends robustos** con Java y Node, y en desarrollar **interfaces multiplataforma** con Angular y Flutter. Mi objetivo es mejorar constantemente mis habilidades en gestión de datos y arquitecturas modernas.
+Soy un apasionado de la tecnología y el desarrollo de software. Actualmente estudio **DAM** y me especializo en crear arquitecturas robustas en el **Backend** y experiencias fluidas en el **Frontend**. Me encanta enfrentarme a retos técnicos y aprender nuevas herramientas cada día.
 
 ---
 
-<div class="card">
-  <h2 class="card-title"><img src="https://emojis.slackmojis.com/emojis/images/1643516104/5558/programmer.png" width="20" alt="Icon" /> Tech Stack</h2>
-  
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="25" /> Mi Stack Tecnológico</h2>
+
   <p><strong>Lenguajes y Frameworks</strong></p>
-  <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py" alt="Backend and Langs" />
-    <img src="https://skillicons.dev/icons?i=angular,flutter,dart,postgresql,mongodb,mysql,git" alt="Frontend and DB" />
-  </p>
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py,dart&theme=dark" alt="Backend and Langs" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=angular,flutter,postgresql,mongodb,mysql,git,figma,postman&theme=dark" alt="Frontend and DB" />
   
-  <p><strong>Herramientas y Metodologías</strong></p>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/Agile-SCRUM-blue?style=flat-square" alt="Agile" />
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="Actions" />
-  </p>
+  <p><strong>Seguridad y Despliegue</strong></p>
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring Security" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="Actions" />
 </div>
 
 ---
 
-<div class="card">
-  <h2 class="card-title"><img src="https://emojis.slackmojis.com/emojis/images/1515286469/3497/github.png" width="20" alt="Icon" /> GitHub Stats</h2>
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Mis Estadísticas de GitHub</h2>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&count_private=true&hide_title=true&hide=contribs" alt="Germán's GitHub Stats" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&langs_count=7&hide_title=true" alt="Germán's Top Langs" width="45%" />
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true" width="45%" />
   
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-  </p>
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<div class="card">
-  <h2 class="card-title"><img src="https://emojis.slackmojis.com/emojis/images/1545464147/5283/brain.png" width="20" alt="Icon" /> Mi Filosofía de Desarrollo</h2>
-  
-  <table>
-    <tr>
-      <td width="33%"><strong>🧠 Pensar</strong></td>
-      <td width="33%"><strong>🏗️ Crear</strong></td>
-      <td width="33%"><strong>🚀 Evolucionar</strong></td>
-    </tr>
-    <tr>
-      <td>Analizo cada proyecto para crear soluciones escalables que resuelvan problemas reales.</td>
-      <td>Implemento código limpio y eficiente, siguiendo las mejores prácticas de la industria.</td>
-      <td>Mantengo un aprendizaje continuo para incorporar nuevas tecnologías y metodologías.</td>
-    </tr>
-  </table>
-</div>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> Proyectos Destacados</h2>
+
+### 🏗️ Gestión de Caseta (Ecosistema Completo)
+Un sistema integral para la gestión de casetas, separando la lógica de negocio del cliente visual:
+
+* **[Backend (gestionCaseta)](https://github.com/gerpas2006/gestionCaseta):** Desarrollado con **Java**, **Spring Boot** y seguridad mediante **JWT**. Gestión eficiente de datos y API REST robusta.
+* **[Frontend (gestionCasetaFront)](https://github.com/gerpas2006/gestionCasetaFront):** Aplicación móvil/web desarrollada con **Flutter**, ofreciendo una interfaz intuitiva y comunicación en tiempo real con el servidor.
 
 ---
 
-<div class="card">
-  <h2 class="card-title"><img src="https://emojis.slackmojis.com/emojis/images/1643516248/12338/project_manager.png" width="20" alt="Icon" /> Proyectos Destacados</h2>
-  
-  <p>Mi primer gran despliegue, combinando front-end y backend:</p>
-  
-  <p><strong>👉 <a href="https://github.com/gerpas2006/PrimerContacto">PrimerContacto</a></strong> (Web Fullstack)</p>
-  
-  <hr>
-  
-  <p><strong>📚 Repositorios Académicos (DAM 1º)</strong></p>
-  
-  <table width="100%">
-    <tr>
-      <th align="left">Repositorio</th>
-      <th align="left">Módulo (DAM)</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gerpas2006/PROGRAMACION">Programación</a></td>
-      <td>Lógica de programación, Java, POO, estructuras de datos.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gerpas2006/BASE-DE-DATOS">Bases de Datos</a></td>
-      <td>Diseño relacional y NoSQL (PostgreSQL, MongoDB).</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gerpas2006/LMGSI">LMGSI</a></td>
-      <td>Lenguajes de marcas, XML, JSON, transformación de datos.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/gerpas2006/SISTEMAS">Sistemas</a></td>
-      <td>Administración de sistemas, redes y configuración.</td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>🧠 Pensar</strong></td>
+    <td width="33%" align="center"><strong>🏗️ Crear</strong></td>
+    <td width="33%" align="center"><strong>🚀 Evolucionar</strong></td>
+  </tr>
+  <tr>
+    <td align="center">Analizo la arquitectura para asegurar que el código sea escalable y limpio.</td>
+    <td align="center">Transformo ideas en aplicaciones funcionales usando las mejores prácticas.</td>
+    <td align="center">Aprendizaje constante de nuevas tecnologías (como MongoDB y Express).</td>
+  </tr>
+</table>
 
 ---
 
-<div class="card">
-  <h2 class="card-title"><img src="https://emojis.slackmojis.com/emojis/images/1601053158/10775/mail_received.png" width="20" alt="Icon" /> Contáctame / Enlaces Rápidos</h2>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Visitantes-4ae3b5?style=for-the-badge" alt="Visitantes" />
-    <img src="https://img.shields.io/badge/LinkedIn-Germán_Pastor_Molero-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </p>
-  
-  <p align="center">
-    <img src="https://img.shields.io/badge/Email-p_molero_germ@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    <img src="https://img.shields.io/badge/GitHub-gerpas2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </p>
-</div>
+<div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Postbox.png" width="25" /> ¡Hablemos!</h2>
 
----
+  <a href="mailto:german.pastor2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-german.pastor2006@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/gerpas2006">
+    <img src="https://img.shields.io/badge/GitHub-gerpas2006-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4ae3b5&height=100&section=footer" alt="Waving line with contribution style color" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4ae3b5&height=100&section=footer" />
 </p>
