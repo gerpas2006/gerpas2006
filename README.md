@@ -65,13 +65,24 @@
 
 ---
 
-## 📊 Estadísticas de Impacto
+## 📊 Estadísticas de Impacto (Tiempo Real)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="94%" />
-</p>
-
----
+<table align="center" border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -91,7 +102,7 @@
         <sub>Código limpio, mantenible y optimizado para el rendimiento.</sub>
       </td>
       <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="50" /><br><br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50" /><br><br>
         <strong>APRENDER</strong><br>
         <sub>Evolución constante para dominar las últimas tecnologías.</sub>
       </td>
