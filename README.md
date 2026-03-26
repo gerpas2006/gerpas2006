@@ -3,6 +3,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Status-🎓_Estudiante_de_DAM-4ae3b5?style=flat-square" alt="Status" />
   <img src="https://img.shields.io/badge/Focus-Fullstack_%26_Mobile-blue?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Daily_Coder-Yes-orange?style=flat-square&logo=github" alt="Daily Coder" />
 </p>
 
 ## 🚀 Desarrollador Multiplataforma en formación
@@ -28,6 +29,20 @@ Soy un apasionado de la tecnología y el desarrollo de software. Actualmente est
 ---
 
 <div align="center">
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Fire.png" width="25" /> Actividad y Commits Diarios</h2>
+  
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gerpas2006&theme=radical&hide_border=true&area=true" width="100%" />
+  </p>
+
+  <div align="left">
+    <h4>📝 Últimos Movimientos:</h4>
+    </div>
+</div>
+
+---
+
+<div align="center">
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> Mis Estadísticas de GitHub</h2>
   
   <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
@@ -42,25 +57,8 @@ Soy un apasionado de la tecnología y el desarrollo de software. Actualmente est
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> Proyectos Destacados</h2>
 
 ### 🏗️ Gestión de Caseta (Ecosistema Completo)
-Un sistema integral para la gestión de casetas, separando la lógica de negocio del cliente visual:
-
-* **[Backend (gestionCaseta)](https://github.com/gerpas2006/gestionCaseta):** Desarrollado con **Java**, **Spring Boot** y seguridad mediante **JWT**. Gestión eficiente de datos y API REST robusta.
-* **[Frontend (gestionCasetaFront)](https://github.com/gerpas2006/gestionCasetaFront):** Aplicación móvil/web desarrollada con **Flutter**, ofreciendo una interfaz intuitiva y comunicación en tiempo real con el servidor.
-
----
-
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>🧠 Pensar</strong></td>
-    <td width="33%" align="center"><strong>🏗️ Crear</strong></td>
-    <td width="33%" align="center"><strong>🚀 Evolucionar</strong></td>
-  </tr>
-  <tr>
-    <td align="center">Analizo la arquitectura para asegurar que el código sea escalable y limpio.</td>
-    <td align="center">Transformo ideas en aplicaciones funcionales usando las mejores prácticas.</td>
-    <td align="center">Aprendizaje constante de nuevas tecnologías (como MongoDB y Express).</td>
-  </tr>
-</table>
+* **[Backend (gestionCaseta)](https://github.com/gerpas2006/gestionCaseta):** **Java** + **Spring Boot** + **JWT**. Seguridad y escalabilidad.
+* **[Frontend (gestionCasetaFront)](https://github.com/gerpas2006/gestionCasetaFront):** App Multiplataforma con **Flutter** e integración total con la API.
 
 ---
 
