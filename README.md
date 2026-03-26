@@ -67,6 +67,12 @@
 
 ## 📊 Estadísticas de Impacto (Tiempo Real)
 
+## 📚 Lenguajes Más Utilizados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&title_color=00f2ff&hide_border=true&bg_color=0d1117" width="350" />
+</p>
+
 <div align="center">
   <table border="0">
     <tr>
