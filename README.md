@@ -1,7 +1,7 @@
 # ¡Hola! Soy Germán Pastor Molero 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=120&section=header&text=Fullstack%20%26%20Mobile%20Developer&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=120&section=header&text=Fullstack%20%26%20Mobile%20Developer&fontSize=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
 </p>
 
 ## 💡 Sobre mí
@@ -11,39 +11,25 @@
 
 ## 🏗️ Proyectos Destacados (Ecosistema Caseta)
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+<p align="center">
+  <a href="https://github.com/gerpas2006/gestionCaseta">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=250&width=400&text=gestionCaseta&fontSize=30&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=Enterprise%20Backend%20-%20Java%20%2B%20Spring%20Boot%20%2B%20JWT&descSize=15&descColor=8b949e&animation=fadeIn" alt="Tarjeta gestionCaseta" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gerpas2006/gestionCasetaFront">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=250&width=400&text=gestionCasetaFront&fontSize=30&fontColor=ffffff&stroke=30363d&strokeWidth=1&desc=Mobile%20Client%20-%20Flutter%20%2B%20Dart%20%2B%20REST%20API&descSize=15&descColor=8b949e&animation=fadeIn" alt="Tarjeta gestionCasetaFront" />
+  </a>
+</p>
 
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #161b22; width: 45%; min-width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h3 align="center">gestionCaseta</h3>
-    <p align="center">
-      <a href="https://github.com/gerpas2006/gestionCaseta">
-        <img src="https://img.shields.io/badge/VER%20PROYECTO-8a2be2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto" />
-      </a>
-    </p>
-    <p style="font-size: 0.9em; color: #8b949e;">Backend Enterprise completo. Motor de lógica de negocio de alta disponibilidad con seguridad avanzada.</p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=json%20web%20tokens&logoColor=white" />
-    </p>
-  </div>
-
-  <div style="border: 1px solid #30363d; border-radius: 10px; padding: 20px; background-color: #161b22; width: 45%; min-width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
-    <h3 align="center">gestionCasetaFront</h3>
-    <p align="center">
-      <a href="https://github.com/gerpas2006/gestionCasetaFront">
-        <img src="https://img.shields.io/badge/VER%20PROYECTO-007cc2?style=for-the-badge&logo=flutter&logoColor=white" alt="Ver Proyecto" />
-      </a>
-    </p>
-    <p style="font-size: 0.9em; color: #8b949e;">Cliente Móvil Multiplataforma. Interfaz de usuario reactiva, fluida y optimizada para el rendimiento.</p>
-    <p align="center">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-      <img src="https://img.shields.io/badge/REST%20API-009688?style=flat-square&logo=api&logoColor=white" />
-    </p>
-  </div>
-
-</div>
+<p align="center">
+  <a href="https://github.com/gerpas2006/gestionCaseta">
+    <img src="https://img.shields.io/badge/VER%20PROYECTO-8a2be2?style=for-the-badge&logo=github&logoColor=white" alt="Ver Proyecto Backend" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/gerpas2006/gestionCasetaFront">
+    <img src="https://img.shields.io/badge/VER%20PROYECTO-007cc2?style=for-the-badge&logo=flutter&logoColor=white" alt="Ver Proyecto Frontend" />
+  </a>
+</p>
 
 ---
 
@@ -53,22 +39,23 @@
   <strong>Lenguajes y Frameworks</strong>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py,dart&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,py,dart&theme=dark" alt="Langs Fila 1" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,figma,postman,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,figma,postman,flutter&theme=dark" alt="Langs Fila 2" />
 </p>
 
 ---
 
 ## 📊 Estadísticas de GitHub (Tiempo Real)
 
-<div align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" width="48%" alt="Estadísticas de Germán" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="45%" alt="Lenguajes más usados" />
-  <br />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&background=0d1117" width="100%" alt="Racha de Germán" />
-</div>
+</p>
 
 ---
 
@@ -79,17 +66,17 @@
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="40" alt="Pensar" /><br />
       <strong>Pensar</strong><br />
-      <sub>Analizo cada proyecto para crear soluciones escalables que resuelvan problemas reales.</sub>
+      <sub>Analizo cada proyecto para crear soluciones escalables.</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="40" alt="Crear" /><br />
       <strong>Crear</strong><br />
-      <sub>Implemento código limpio y eficiente siguiendo las mejores prácticas de la industria.</sub>
+      <sub>Implemento código limpio siguiendo las mejores prácticas.</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="40" alt="Evolucionar" /><br />
       <strong>Evolucionar</strong><br />
-      <sub>Mantengo un aprendizaje continuo para incorporar nuevas tecnologías y metodologías.</sub>
+      <sub>Aprendizaje continuo de nuevas tecnologías.</sub>
     </td>
   </tr>
 </table>
@@ -106,7 +93,7 @@
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/VISITAS-1,060+-9146ff?style=plastic&logoColor=000000" alt="Visitas simuladas" />
+    <img src="https://img.shields.io/badge/VISITAS-1,060+-9146ff?style=plastic" alt="Visitas simuladas" />
     <a href="https://github.com/gerpas2006">
       <img src="https://img.shields.io/badge/GITHUB-GERPAS2006-007cc2?style=plastic&logo=github&logoColor=white" alt="GitHub" />
     </a>
