@@ -86,25 +86,41 @@
 
 ---
 
+## 📊 Estadísticas de Impacto (Tiempo Real)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gerpas2006&show_icons=true&theme=radical&hide_border=true&title_color=00f2ff&icon_color=00f2ff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gerpas2006&layout=compact&theme=radical&hide_border=true&title_color=00f2ff&bg_color=0d1117" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gerpas2006&theme=radical&hide_border=true&stroke=00f2ff&background=0d1117" width="94%" />
+</p>
+
+---
+
 ## 🧩 Mi Filosofía de Desarrollo
 
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" /><br><br>
-        <strong>PENSAR</strong><br>
-        <sub>Diseño arquitecturas sólidas para resolver problemas reales.</sub>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px;">
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" />
+        <br><strong>PENSAR</strong><br>
+        <sub>Arquitecturas sólidas.</sub><br><br>
       </td>
-      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50" /><br><br>
-        <strong>CONSTRUIR</strong><br>
-        <sub>Código limpio, mantenible y optimizado para el rendimiento.</sub>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px;">
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50" />
+        <br><strong>CONSTRUIR</strong><br>
+        <sub>Código limpio.</sub><br><br>
       </td>
-      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50" /><br><br>
-        <strong>APRENDER</strong><br>
-        <sub>Evolución constante para dominar las últimas tecnologías.</sub>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px;">
+        <br>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="50" />
+        <br><strong>APRENDER</strong><br>
+        <sub>Evolución constante.</sub><br><br>
       </td>
     </tr>
   </table>
