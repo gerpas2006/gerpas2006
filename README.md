@@ -89,32 +89,27 @@
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px;">
-        <br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" />
-        <br><strong>PENSAR</strong><br>
-        <sub>Diseño arquitecturas sólidas para problemas reales.</sub>
-        <br><br>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" /><br><br>
+        <strong>PENSAR</strong><br>
+        <sub>Diseño arquitecturas sólidas para resolver problemas reales.</sub>
       </td>
-      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px;">
-        <br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50" />
-        <br><strong>CONSTRUIR</strong><br>
-        <sub>Código limpio, mantenible y optimizado.</sub>
-        <br><br>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="50" /><br><br>
+        <strong>CONSTRUIR</strong><br>
+        <sub>Código limpio, mantenible y optimizado para el rendimiento.</sub>
       </td>
-      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px;">
-        <br>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50" />
-        <br><strong>APRENDER</strong><br>
-        <sub>Evolución constante para dominar nuevas tecnologías.</sub>
-        <br><br>
+      <td align="center" width="250" style="border: 1px solid #30363d; border-radius: 10px; padding: 15px;">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="50" /><br><br>
+        <strong>APRENDER</strong><br>
+        <sub>Evolución constante para dominar las últimas tecnologías.</sub>
       </td>
     </tr>
   </table>
 </div>
 
 ---
+
 ## 📫 Conecta conmigo
 
 <p align="center">
