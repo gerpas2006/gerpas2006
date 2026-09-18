@@ -12,12 +12,11 @@
 </p>
 
 ---
-
 ## 🚀 Sobre mí
 
-> 👨‍💻 Estudiante de **DAM** con mentalidad de arquitecto de software. No solo escribo código, diseño **soluciones escalables y eficientes** que resuelven problemas reales.
+> 👨‍💻 Técnico Superior en **DAM** y actual estudiante de **DAW** con mentalidad de arquitecto de software. No solo escribo código, diseño **soluciones escalables y eficientes** que resuelven problemas reales.
 > 
-> 🛠️ Mi ecosistema principal es el **Backend (Java/Spring Boot)**, donde gestiono la seguridad y los datos con precisión, pero mi curiosidad me lleva a crear interfaces fluidas en **Mobile (Flutter)**.
+> 🛠️ Mi ecosistema principal es el **Backend (Java/Spring Boot)**, donde gestiono la seguridad y los datos con precisión, pero mi formación en **Mobile (Flutter)** me permite conectar el servidor con interfaces fluidas y multiplataforma.
 > 
 > ✨ Creo firmemente en el **código limpio** y en que la mejor tecnología es la que se construye para durar. ¡Siempre en busca del próximo desafío!
 
